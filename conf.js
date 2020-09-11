@@ -79,7 +79,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<!-- custom html -->',
+  inject_html: '本站由18电子鱼思科运营，仅供stu漫社内部使用，禁止用于违法用途',
 
   /**
    * URL 自定义处理（设计中）
