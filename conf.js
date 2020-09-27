@@ -13,7 +13,7 @@ jsproxy_config({
   // 节点配置
   node_map: {
     'mysite': {
-      label: '当前站点',
+      label: 'Current',
       lines: {
         [location.host]: 1,
       }
@@ -65,7 +65,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<p>本站由18电子鱼思科运营，仅供stu漫社内部使用，禁止用于违法用途</p>',
+  inject_html: '<p>本站由18电子鱼思科运营，仅供stu内部使用，禁止用于违法用途</p>',
 
   /**
    * URL 自定义处理（设计中）
